@@ -9,10 +9,10 @@ this is the tiktok clone mern stack app  having backend deployed on heroku and f
  
 ## file format(important)
 
-<img src="basefloder.PNG" width="400px" height="250px" align="center"> 
-<img src="backendfloder.PNG" width="400px" height="250px" align="center"> 
-<img src="frontend floder.PNG" width="400px" height="250px" align="center"> 
-<img src="src floder.PNG" width="400px" height="250px" align="center"> 
+<img src="basefloder.PNG" width="100%" height="250px" align="center"> 
+<img src="backendfloder.PNG" width="100%" height="250px" align="center"> 
+<img src="frontend floder.PNG" width="100%" height="250px" align="center"> 
+<img src="src floder.PNG" width="100%" height="250px" align="center"> 
 
 
 
