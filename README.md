@@ -4,5 +4,5 @@ this is the tiktok clone mern stack app  having backend deployed on heroku and f
 
 ## screen shots
 
-<img src="Screenshot (12).png" width="800px" height="500px">
+<img src="Screenshot (12).png" width="400px" height="250px"><img src="Screenshot (13).png" width="400px" height="250px">
 
