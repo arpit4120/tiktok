@@ -1,0 +1,11 @@
+.videoSider {
+  position: absolute;
+  top: 47%;
+  right: 4px;
+  color: white;
+}
+
+.videoSider__button {
+  padding: 20px;
+  text-align: center;
+}
